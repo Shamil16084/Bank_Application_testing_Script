@@ -1,0 +1,5 @@
+Outcome Type,Count,Percentage
+ERROR: Database Connection Pool Empty,38,26.57
+SUCCESS,73,51.05
+ERROR: Internal Server Error [500],32,22.38
+WARNING,22,15.38

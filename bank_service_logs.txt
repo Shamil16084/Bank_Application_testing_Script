@@ -1,0 +1,235 @@
+2025/10/20 13:28:17 Processing GET request
+2025/10/20 13:28:17 ERROR Database Connection Pool Empty
+2025/10/20 13:28:18 Processing GET request
+2025/10/20 13:28:18 Processing GET request
+2025/10/20 13:28:18 Processing GET request
+2025/10/20 13:28:19 Processing GET request
+2025/10/20 13:28:19 Processing GET request
+2025/10/20 13:28:19 Processing GET request
+2025/10/20 13:28:19 ERROR Internal Server Error [500]
+2025/10/20 13:28:20 Processing GET request
+2025/10/20 13:28:20 ERROR Database Connection Pool Empty
+2025/10/20 13:28:20 Processing GET request
+2025/10/20 13:28:20 Processing GET request
+2025/10/20 13:28:20 ERROR Internal Server Error [500]
+2025/10/20 13:28:21 Processing GET request
+2025/10/20 13:28:21 Processing GET request
+2025/10/20 13:28:21 Processing GET request
+2025/10/20 13:28:21 ERROR Database Connection Pool Empty
+2025/10/20 13:28:22 Processing GET request
+2025/10/20 13:28:22 Processing GET request
+2025/10/20 13:28:22 ERROR Internal Server Error [500]
+2025/10/20 13:28:22 Processing GET request
+2025/10/20 13:28:23 Processing GET request
+2025/10/20 13:28:23 ERROR Database Connection Pool Empty
+2025/10/20 13:28:23 Processing GET request
+2025/10/20 13:28:23 ERROR Database Connection Pool Empty
+2025/10/20 13:28:24 Processing GET request
+2025/10/20 13:28:24 ERROR Database Connection Pool Empty
+2025/10/20 13:28:25 Processing GET request
+2025/10/20 13:28:25 ERROR Internal Server Error [500]
+2025/10/20 13:28:26 Processing GET request
+2025/10/20 13:28:27 Processing GET request
+2025/10/20 13:28:27 ERROR Database Connection Pool Empty
+2025/10/20 13:28:28 Processing GET request
+2025/10/20 13:28:29 Processing GET request
+2025/10/20 13:28:30 Processing GET request
+2025/10/20 13:28:30 ERROR Database Connection Pool Empty
+2025/10/20 13:28:31 Processing GET request
+2025/10/20 13:28:31 ERROR Internal Server Error [500]
+2025/10/20 13:28:32 Processing GET request
+2025/10/20 13:28:33 Processing GET request
+2025/10/20 13:28:34 Processing GET request
+2025/10/20 13:28:34 WARNING Server Latency is now [381] Milliseconds
+2025/10/20 13:28:35 Processing GET request
+2025/10/20 13:28:36 Processing GET request
+2025/10/20 13:28:36 ERROR Internal Server Error [500]
+2025/10/20 13:28:37 Processing GET request
+2025/10/20 13:28:37 ERROR Database Connection Pool Empty
+2025/10/20 13:28:38 Processing GET request
+2025/10/20 13:28:38 ERROR Internal Server Error [500]
+2025/10/20 13:28:39 Processing GET request
+2025/10/20 13:28:39 ERROR Database Connection Pool Empty
+2025/10/20 13:28:40 Processing GET request
+2025/10/20 13:28:40 ERROR Internal Server Error [500]
+2025/10/20 13:28:41 Processing GET request
+2025/10/20 13:28:42 WARNING Server Latency is now [664] Milliseconds
+2025/10/20 13:28:43 Processing GET request
+2025/10/20 13:28:43 ERROR Database Connection Pool Empty
+2025/10/20 13:28:44 Processing GET request
+2025/10/20 13:28:45 Processing GET request
+2025/10/20 13:28:46 WARNING Server Latency is now [677] Milliseconds
+2025/10/20 13:28:47 Processing GET request
+2025/10/20 13:28:47 ERROR Database Connection Pool Empty
+2025/10/20 13:28:48 Processing GET request
+2025/10/20 13:28:49 WARNING Server Latency is now [804] Milliseconds
+2025/10/20 13:28:50 Processing GET request
+2025/10/20 13:28:51 Processing GET request
+2025/10/20 13:28:51 ERROR Database Connection Pool Empty
+2025/10/20 13:28:52 Processing GET request
+2025/10/20 13:28:53 Processing GET request
+2025/10/20 13:28:54 WARNING Server Latency is now [935] Milliseconds
+2025/10/20 13:28:55 Processing GET request
+2025/10/20 13:28:55 ERROR Internal Server Error [500]
+2025/10/20 13:28:56 Processing GET request
+2025/10/20 13:28:57 WARNING Server Latency is now [1364] Milliseconds
+2025/10/20 13:28:58 Processing GET request
+2025/10/20 13:28:59 Processing GET request
+2025/10/20 13:29:00 Processing GET request
+2025/10/20 13:29:00 ERROR Internal Server Error [500]
+2025/10/20 13:29:01 Processing GET request
+2025/10/20 13:29:03 WARNING Server Latency is now [1561] Milliseconds
+2025/10/20 13:29:04 Processing GET request
+2025/10/20 13:29:05 Processing GET request
+2025/10/20 13:29:05 ERROR Database Connection Pool Empty
+2025/10/20 13:29:06 Processing GET request
+2025/10/20 13:29:06 ERROR Internal Server Error [500]
+2025/10/20 13:29:07 Processing GET request
+2025/10/20 13:29:07 ERROR Internal Server Error [500]
+2025/10/20 13:29:08 Processing GET request
+2025/10/20 13:29:09 WARNING Server Latency is now [1607] Milliseconds
+2025/10/20 13:29:10 Processing GET request
+2025/10/20 13:29:12 WARNING Server Latency is now [1976] Milliseconds
+2025/10/20 13:29:13 Processing GET request
+2025/10/20 13:29:15 Processing GET request
+2025/10/20 13:29:16 Processing GET request
+2025/10/20 13:29:16 Processing GET request
+2025/10/20 13:29:16 ERROR Database Connection Pool Empty
+2025/10/20 13:29:18 Processing GET request
+2025/10/20 13:29:18 ERROR Database Connection Pool Empty
+2025/10/20 13:29:19 Processing GET request
+2025/10/20 13:29:19 ERROR Internal Server Error [500]
+2025/10/20 13:29:20 Processing GET request
+2025/10/20 13:29:22 WARNING Server Latency is now [2397] Milliseconds
+2025/10/20 13:29:23 Processing GET request
+2025/10/20 13:29:23 ERROR Database Connection Pool Empty
+2025/10/20 13:29:24 Processing GET request
+2025/10/20 13:29:24 ERROR Internal Server Error [500]
+2025/10/20 13:29:25 Processing GET request
+2025/10/20 13:29:28 WARNING Server Latency is now [2862] Milliseconds
+2025/10/20 13:29:29 Processing GET request
+2025/10/20 13:29:29 ERROR Internal Server Error [500]
+2025/10/20 13:29:30 Processing GET request
+2025/10/20 13:29:30 ERROR Database Connection Pool Empty
+2025/10/20 13:29:31 Processing GET request
+2025/10/20 13:29:31 ERROR Database Connection Pool Empty
+2025/10/20 13:29:32 Processing GET request
+2025/10/20 13:29:35 WARNING Server Latency is now [3195] Milliseconds
+2025/10/20 13:29:36 Processing GET request
+2025/10/20 13:29:36 ERROR Database Connection Pool Empty
+2025/10/20 13:29:37 Processing GET request
+2025/10/20 13:29:37 ERROR Internal Server Error [500]
+2025/10/20 13:29:38 Processing GET request
+2025/10/20 13:29:39 Processing GET request
+2025/10/20 13:29:41 Processing GET request
+2025/10/20 13:29:42 Processing GET request
+2025/10/20 13:29:43 Processing GET request
+2025/10/20 13:29:46 WARNING Server Latency is now [3197] Milliseconds
+2025/10/20 13:29:47 Processing GET request
+2025/10/20 13:29:50 WARNING Server Latency is now [3501] Milliseconds
+2025/10/20 13:29:51 Processing GET request
+2025/10/20 13:29:55 WARNING Server Latency is now [3944] Milliseconds
+2025/10/20 13:29:56 Processing GET request
+2025/10/20 13:29:56 ERROR Database Connection Pool Empty
+2025/10/20 13:29:57 Processing GET request
+2025/10/20 13:29:58 Processing GET request
+2025/10/20 13:29:59 Processing GET request
+2025/10/20 13:30:00 Processing GET request
+2025/10/20 13:30:00 ERROR Database Connection Pool Empty
+2025/10/20 13:30:01 Processing GET request
+2025/10/20 13:30:01 ERROR Database Connection Pool Empty
+2025/10/20 13:30:02 Processing GET request
+2025/10/20 13:30:02 ERROR Internal Server Error [500]
+2025/10/20 13:30:03 Processing GET request
+2025/10/20 13:30:03 ERROR Database Connection Pool Empty
+2025/10/20 13:30:05 Processing GET request
+2025/10/20 13:30:05 ERROR Database Connection Pool Empty
+2025/10/20 13:30:06 Processing GET request
+2025/10/20 13:30:07 Processing GET request
+2025/10/20 13:30:07 ERROR Internal Server Error [500]
+2025/10/20 13:30:08 Processing GET request
+2025/10/20 13:30:12 WARNING Server Latency is now [4145] Milliseconds
+2025/10/20 13:30:13 Processing GET request
+2025/10/20 13:30:14 Processing GET request
+2025/10/20 13:30:15 Processing GET request
+2025/10/20 13:30:15 ERROR Database Connection Pool Empty
+2025/10/20 13:30:16 Processing GET request
+2025/10/20 13:30:16 ERROR Internal Server Error [500]
+2025/10/20 13:30:17 Processing GET request
+2025/10/20 13:34:55 Processing GET request
+2025/10/20 13:34:59 WARNING Server Latency is now [4637] Milliseconds
+2025/10/20 13:35:00 Processing GET request
+2025/10/20 13:35:00 ERROR Database Connection Pool Empty
+2025/10/20 13:35:00 Processing GET request
+2025/10/20 13:35:01 Processing GET request
+2025/10/20 13:35:01 ERROR Internal Server Error [500]
+2025/10/20 13:35:01 Processing GET request
+2025/10/20 13:35:01 ERROR Internal Server Error [500]
+2025/10/20 13:35:02 Processing GET request
+2025/10/20 13:35:02 ERROR Internal Server Error [500]
+2025/10/20 13:35:02 Processing GET request
+2025/10/20 13:35:02 ERROR Database Connection Pool Empty
+2025/10/20 13:35:03 Processing GET request
+2025/10/20 13:35:03 ERROR Internal Server Error [500]
+2025/10/20 13:35:03 Processing GET request
+2025/10/20 13:35:04 Processing GET request
+2025/10/20 13:35:04 ERROR Database Connection Pool Empty
+2025/10/20 13:35:05 Processing GET request
+2025/10/20 13:35:05 ERROR Internal Server Error [500]
+2025/10/20 13:35:05 Processing GET request
+2025/10/20 13:35:05 ERROR Database Connection Pool Empty
+2025/10/20 13:35:06 Processing GET request
+2025/10/20 13:35:06 ERROR Database Connection Pool Empty
+2025/10/20 13:35:06 Processing GET request
+2025/10/20 13:35:06 ERROR Database Connection Pool Empty
+2025/10/20 13:35:07 Processing GET request
+2025/10/20 13:35:07 ERROR Internal Server Error [500]
+2025/10/20 13:35:07 Processing GET request
+2025/10/20 13:35:07 ERROR Internal Server Error [500]
+2025/10/20 13:35:08 Processing GET request
+2025/10/20 13:35:13 WARNING Server Latency is now [4854] Milliseconds
+2025/10/20 13:35:13 Processing GET request
+2025/10/20 13:35:13 ERROR Database Connection Pool Empty
+2025/10/20 13:35:14 Processing GET request
+2025/10/20 13:35:14 ERROR Internal Server Error [500]
+2025/10/20 13:35:15 Processing GET request
+2025/10/20 13:35:15 Processing GET request
+2025/10/20 13:35:17 Processing GET request
+2025/10/20 13:35:17 Processing GET request
+2025/10/20 13:35:17 ERROR Database Connection Pool Empty
+2025/10/20 13:35:18 Processing GET request
+2025/10/20 13:35:18 ERROR Internal Server Error [500]
+2025/10/20 13:35:19 Processing GET request
+2025/10/20 13:35:19 ERROR Database Connection Pool Empty
+2025/10/20 13:35:20 Processing GET request
+2025/10/20 13:35:20 ERROR Internal Server Error [500]
+2025/10/20 13:35:20 WARNING Server Latency is now [5196] Milliseconds
+2025/10/20 13:35:21 Processing GET request
+2025/10/20 13:35:21 Processing GET request
+2025/10/20 13:35:22 Processing GET request
+2025/10/20 13:35:22 ERROR Internal Server Error [500]
+2025/10/20 13:35:22 Processing GET request
+2025/10/20 13:35:22 Processing GET request
+2025/10/20 13:35:27 WARNING Server Latency is now [5847] Milliseconds
+2025/10/20 13:35:28 WARNING Server Latency is now [5847] Milliseconds
+2025/10/20 13:35:28 Processing GET request
+2025/10/20 13:35:28 ERROR Database Connection Pool Empty
+2025/10/20 13:35:28 Processing GET request
+2025/10/20 13:35:29 Processing GET request
+2025/10/20 13:35:29 Processing GET request
+2025/10/20 13:35:29 Processing GET request
+2025/10/20 13:35:29 ERROR Internal Server Error [500]
+2025/10/20 13:35:30 Processing GET request
+2025/10/20 13:35:30 ERROR Internal Server Error [500]
+2025/10/20 13:35:30 Processing GET request
+2025/10/20 13:35:30 ERROR Database Connection Pool Empty
+2025/10/20 13:35:31 Processing GET request
+2025/10/20 13:35:31 ERROR Database Connection Pool Empty
+2025/10/20 13:35:31 Processing GET request
+2025/10/20 13:35:32 Processing GET request
+2025/10/20 13:35:32 Processing GET request
+2025/10/20 13:35:33 Processing GET request
+2025/10/20 13:35:33 Processing GET request
+2025/10/20 13:35:34 Processing GET request
+2025/10/20 13:35:34 Processing GET request
+2025/10/20 13:35:35 WARNING Server Latency is now [6076] Milliseconds
