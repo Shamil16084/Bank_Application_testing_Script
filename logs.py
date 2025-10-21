@@ -3,7 +3,6 @@ import requests
 from collections import Counter
 import csv
 
-
 # Variables
 
 LOGS_ENDPOINT = "https://latest-960957615762.me-central1.run.app/getlogs"
@@ -28,9 +27,9 @@ def download_logs():
         print(f"Error downloading logs: {e}")
         return None
 
-# ---------------------------
-# Step 2: Parse Logs
-# ---------------------------
+
+# Parse Logs
+
 def parse_logs(log_content):
     if not log_content.strip():
         print("Logs are empty!")
@@ -46,8 +45,10 @@ def parse_logs(log_content):
     success_count = 0
     error_count = 0
     warning_count = 0
-    # track the detailed breakdown of all outcomes, including specific error types.
-    outcome_distribution = Counter()  
+    # track the detailed breakdown of all outcomes, including specific error types. 
+    # Counter is a dynamic dictationary, eliminate manual check
+    outcome_distribution = Counter()    
+
 
     for i, line in enumerate(lines):
         if "Processing GET request" in line:

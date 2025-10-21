@@ -1,6 +1,6 @@
 Metric,Value
-Total Requests,143
-Success Count,73
-Error Count,70
-Warning Count,22
-Reliability Rate (%),51.05
+Total Requests,553
+Success Count,286
+Error Count,267
+Warning Count,117
+Reliability Rate (%),51.72
